@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Script, NodeJS.**
 
-- 🤝 I’m looking job for **all of the world.**
+- 🤝 I’m looking for job **over the world.**
 
 - 💬 Ask me about **Data Science and Python libraries**
 
