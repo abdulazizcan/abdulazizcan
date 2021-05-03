@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdülaziz!</h1>
 <h3 align="center">A passionate Data Science Researcher from Turkey</h3>
 
-- 🔭 I’m currently working on **Hyperparameter optimization.**
+- 🔭 I’m currently working on **NLP**
 
 - 🌱 I’m currently learning **Java Script, NodeJS.**
 
