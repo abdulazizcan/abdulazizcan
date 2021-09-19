@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdülaziz!</h1>
 <h3 align="center">A passionate Data Science Researcher from Turkey</h3>
+<h3 align="center">Core Member at Global AI Hub</h3>
+
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
