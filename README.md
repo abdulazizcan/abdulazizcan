@@ -7,16 +7,19 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizcan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizcan" /> </p>
+## 🔨 Stack 
 
-- 🔭 I’m currently working on **NLP**
+🐍 Python
+- Natural Language Processing: NLTK
+- Machine Learning: TensorFlow, Scikit-learn
+- Data Science: Pandas, Numpy
+- Demo: Matplotlib, Seaborn
 
-- 🌱 I’m currently learning **Digital Image Processing**
+JavaScript
+- Node.js, Express.js, Socket.io, React.js
 
-- 🤝 I’m interested in **Data Science, Computer Vision, Artificial Intelligence**
-
-- 💬 Ask me about **everything!**
-
-- 📫 How to reach me **abdulazizcaan@gmail.com**
+Development
+- AWS, Docker, Git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
