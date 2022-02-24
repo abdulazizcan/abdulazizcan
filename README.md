@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdülaziz!</h1>
-<h3 align="center">A passionate Data Science Researcher from Turkey</h3>
-<h3 align="center">Core Member at Global AI Hub</h3>
+<h3 align="center">Data Science Researcher, DevOps, Core Member at Global AI Hub</h3>
 
+I'm a person who is 27 years old, living in Warsaw and developing data science, machine learning and javascript projects. My daily work stack contains Python, JavaScript and AWS but I continue to explore new technologies and languages.
 
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizcan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizcan" /> </p>
 ## 🔨 Stack 
 
-🐍 Python
-- Natural Language Processing: NLTK
-- Machine Learning: TensorFlow, Scikit-learn
-- Data Science: Pandas, Numpy
-- Demo: Matplotlib, Seaborn
+- 🐍  Python Stack: NLTK, TensorFlow, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
+	
+- 🌱 JavaScript Stack: Node.js, Express.js, Socket.io, React.js
 
-JavaScript
-- Node.js, Express.js, Socket.io, React.js
-
-Development
-- AWS, Docker, Git
+- 🌿 Development: AWS, Docker, Git
+	
+- 💬 Ask me about anything!
+	
+- 📫 How to reach me: *abdulazizcaan@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
