@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdülaziz!</h1>
 <h3 align="center">Data Science Researcher, DevOps, Core Member at Global AI Hub</h3>
 
-I'm a person who is 27 years old, living in Warsaw and developing data science, machine learning and javascript projects. My daily work stack contains Python, JavaScript and AWS but I continue to explore new technologies and languages.
+I'm a person who is 27 years old, living in Warsaw and developing data science and javascript projects. My daily work stack contains Python, JavaScript and AWS but I continue to explore new technologies and languages.
 
 ## 🔨 Stack 
 
