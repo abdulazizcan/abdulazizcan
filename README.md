@@ -9,7 +9,7 @@ I'm a person who is 27 years old, living in Warsaw, developing data science and 
 	
 - 🌱 JavaScript Stack: Node.js, Express.js, Socket.io, React.js, NestJS, PassportJS
 
-- 🌿 Development: AWS, Docker, Git
+- 🌿 Development: AWS, IBM Cloud, Docker, Git
 	
 - 💬 Ask me about anything!
 	
