@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdülaziz!</h1>
 <h3 align="center">Backend Developer, DevOps, Data Scientist</h3>
 
-I'm a person who is 27 years old, living in Warsaw, developing data science and javascript projects. My daily work stack contains Python, JavaScript and AWS but I continue to explore new technologies and languages.
+I'm a person who is 29 years old, living in Warsaw, developing data science and javascript projects. My daily work stack contains Python, JavaScript and AWS but I continue to explore new technologies and languages.
 
 ## 🔨 Stack 
 
