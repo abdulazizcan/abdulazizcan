@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdülaziz!</h1>
 <h3 align="center">Full Stack Developer, DevOps, Data Scientist</h3>
 
-I'm a person who is 29 years old, living in Warsaw, developing data science and javascript projects. My daily work stack contains Python, JavaScript and AWS but I continue to explore new technologies and languages.
+I'm a person who is 30 years old, living in Warsaw, developing data science and javascript projects. My daily work stack contains Python, JavaScript and AWS but I continue to explore new technologies and languages.
 
 ## 🔨 Stack 
 
 - 🐍  Python Stack: NLTK, TensorFlow, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
 	
-- 🌱 JavaScript Stack: Node.js, Express.js, Socket.io, React.js, NestJS, PassportJS
+- 🌱 JavaScript Stack: Node.js, Express.js, Socket.io, React.js, NestJS, PassportJS, Vue.js
 
 - 🌿 Development: AWS, IBM Cloud, Docker, Git
 	
